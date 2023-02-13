@@ -1,0 +1,11 @@
+c:\users\p340\documents\visual studio 2015\Projects\VBweek1\VBweek1\bin\Debug\VBweek1.exe.config
+c:\users\p340\documents\visual studio 2015\Projects\VBweek1\VBweek1\bin\Debug\VBweek1.exe
+c:\users\p340\documents\visual studio 2015\Projects\VBweek1\VBweek1\bin\Debug\VBweek1.pdb
+c:\users\p340\documents\visual studio 2015\Projects\VBweek1\VBweek1\bin\Debug\VBweek1.xml
+c:\users\p340\documents\visual studio 2015\Projects\VBweek1\VBweek1\obj\Debug\VBweek1.vbprojResolveAssemblyReference.cache
+c:\users\p340\documents\visual studio 2015\Projects\VBweek1\VBweek1\obj\Debug\VBweek1.Form1.resources
+c:\users\p340\documents\visual studio 2015\Projects\VBweek1\VBweek1\obj\Debug\VBweek1.Resources.resources
+c:\users\p340\documents\visual studio 2015\Projects\VBweek1\VBweek1\obj\Debug\VBweek1.vbproj.GenerateResource.Cache
+c:\users\p340\documents\visual studio 2015\Projects\VBweek1\VBweek1\obj\Debug\VBweek1.exe
+c:\users\p340\documents\visual studio 2015\Projects\VBweek1\VBweek1\obj\Debug\VBweek1.xml
+c:\users\p340\documents\visual studio 2015\Projects\VBweek1\VBweek1\obj\Debug\VBweek1.pdb
